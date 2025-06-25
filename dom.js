@@ -1,0 +1,1 @@
+document.getElementById("bio").innerHTML =  document.getElementById("bio").innerText +" And I modify the DOM!";
